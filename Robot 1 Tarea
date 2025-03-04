@@ -1,4 +1,4 @@
-#Robot 1
+#Robot 1 CR-7IA/L
 import sympy as sp
 from sympy.matrices import rot_axis3
 
