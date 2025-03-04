@@ -1,4 +1,4 @@
-#Robot 1
+#Robot 2 IRB580/16
 import sympy as sp
 from sympy.matrices import rot_axis3
 
